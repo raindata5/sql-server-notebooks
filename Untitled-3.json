@@ -1,0 +1,16 @@
+[{"Customer": {"CustomerID": 285,"FirstName": "Syed","LastName": "Abbas"}},
+    {
+        "Customer": {
+            "CustomerID": 293,
+            "FirstName": "Catherine",
+            "LastName": "Abel"
+        }
+    },
+    {
+        "Customer": {
+            "CustomerID": 295,
+            "FirstName": "Kim",
+            "LastName": "Abercrombie"
+        }
+    }
+]
